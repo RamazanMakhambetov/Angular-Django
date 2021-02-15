@@ -1,0 +1,98 @@
+.Logo{
+    width: 137px;
+    height: 100%;
+    position: relative;
+    left:82px;
+    top:-78px
+}
+
+#Microsoft365{
+    position: absolute;
+    left: 240px;
+    top: 10px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 12px;
+}
+#Office{
+    position: absolute;
+    left: 348px;
+    top: 10px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 12px;
+}
+#Windows{
+    position: absolute;
+    left: 410px;
+    top: 10px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 12px;
+}
+#Help{
+    position: absolute;
+    left: 492px;
+    top: 10px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 12px;
+}
+
+#All\ products{
+    position: absolute;
+    right: 306px;
+    top: 10px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 12px;
+}
+#Search{
+    position: absolute;
+    right: 204px;
+    top: 4px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 12px;
+}
+#Log\ in{
+    position: absolute;
+    right:92px;
+    top: 1px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 12px;
+}
+.image{
+    position: relative;
+    left: 84px;
+    bottom: 108px;
+    width: 1372px;
+}
+.Teams{
+    position: absolute;
+    left: 91px;
+    margin-top: -50px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.Edge{
+    position: absolute;
+    left: 441px;
+    margin-top: -50px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.OneDrive{
+    position: absolute;
+    right: 408px;
+    margin-top: -50px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.Win10{
+    position: absolute;
+    right: 58px;
+    margin-top: -50px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.Microsoft{
+    margin-top: 37px;
+    font-size: 18px;
+}
+.text{
+    font-size: 16px;
+    font-weight: normal;
+    margin-top: -14px;
+}
