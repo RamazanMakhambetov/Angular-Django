@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+    font-family: "Calibri Light";
+}
+body{
+    height: 100vh;
+    margin: 0 auto;
+}
+
+.content{
+    width: 400px;
+    margin: auto;
+}
+
+#input{
+    width: 70%;
+}
+#btn{
+    width: 20%;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#result{
+    margin-bottom: 50px;
+}
+.btn{
+    background: red;
+    border: none;
+    color: white;
+    margin-left: 20px;
+    cursor: pointer;
+    position: relative;
+    z-index: 10;
+}
+.li{
+    padding: 4px 8px;
+    border: 1px solid;
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    z-index: 5;
+    width: 100%;
+    text-transform: capitalize;
+}
+.li-active{
+    text-decoration: line-through;
+}
+
+.li-active .btn{
+    text-decoration: line-through;
+}
